@@ -18,7 +18,7 @@ public class Test {
 			Musem.main(args);
 			break;
 		default:
-			System.out.println("Error");
+			System.out.println("Error in the input");
 		break;
 		}
     }
